@@ -1,0 +1,3 @@
+include ':scansface'
+include ':app'
+rootProject.name = "FaceScansDemo"
